@@ -12,6 +12,6 @@ public class TestController {
 
     @GetMapping("/api/test")
     public String test(){
-        return "hello world.";
+        return "hello world haa.";
     }
 }
